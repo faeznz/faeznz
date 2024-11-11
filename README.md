@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zulfan Faizun Najib</h1>
-<h3 align="center">I am a student of the information systems study program at Ahmad Dahlan University. I have an interest in the field of Frontend Web Developer and UI / UX Design</h3>
+<h3 align="center">I am a student of the information systems study program at Ahmad Dahlan University. I have an interest in the field of Frontend Web Developer, Mobile Deloper and UI / UX Design</h3>
 
-- 👨‍💻 All of my projects are available at [https://faeznz-content.netlify.app/](https://faeznz-content.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portofolio/](https://faeznz-id.vercel.app/)
 
 - 💬 Ask me about **React, Angular, Flutter, Figma**
 
