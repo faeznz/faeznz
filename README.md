@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zulfan Faizun Najib</h1>
-<h3 align="center">I am a student of the information systems study program at Ahmad Dahlan University. I have an interest in the field of Frontend Web Developer, Mobile Developer and UI / UX Design</h3>
+<h3 align="center">I am a student of the information systems study program at Ahmad Dahlan University. I have an interest in the field of Data Analysis, Machine Learning, Web and Mobile Developer</h3>
 
 - 👨‍💻 All of my projects are available at [My Portofolio/](https://faeznz-id.vercel.app/)
 
