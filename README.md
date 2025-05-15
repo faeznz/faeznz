@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zulfan Faizun Najib</h1>
 <h3 align="center">I am a student of the information systems study program at Ahmad Dahlan University. I have an interest in the field of Data Analysis, Machine Learning, Web and Mobile Developer</h3>
 
-- 👨‍💻 All of my projects are available at [My Portofolio/](https://faeznz-id.vercel.app/)
+- 👨‍💻 All of my projects are available at [[My Portofolio/](https://about.faeznz.my.id/)]
 
 - 💬 Ask me about **Python, React, Angular, Flutter, Figma**
 
