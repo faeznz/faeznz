@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portofolio/](https://faeznz-id.vercel.app/)
 
-- 💬 Ask me about **React, Angular, Flutter, Figma**
+- 💬 Ask me about **Python, React, Angular, Flutter, Figma**
 
 - 📫 How to reach me **faeznz@gmail.com**
 
